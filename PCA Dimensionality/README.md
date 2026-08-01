@@ -269,10 +269,11 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
+
 ## 📉 Principal Component Analysis
 
 ### Transform High-Dimensional Data into Meaningful Insights
 
-**Built with ❤️ using Python & Scikit-learn**
+**"Reduce complexity, preserve knowledge, and let the data reveal its true structure."**
 
 </div>
