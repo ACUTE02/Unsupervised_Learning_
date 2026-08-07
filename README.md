@@ -211,7 +211,7 @@ Concepts Covered
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Machine-Learning-Algorithms.git
+git clone https://github.com/ACUTE02/Machine-Learning-Algorithms.git
 ```
 
 ```bash
